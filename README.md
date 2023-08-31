@@ -14,8 +14,13 @@ After completing the Rust book, it seems a logical step to create a real-world e
 4. run `cargo build`
 5. run `cargo run`
 6. Server should be started at `http://127.0.0.1:8000`
-   
+7. To run the server in watch mode so you don't have to run `cargo run` after file change, first install
 
+`cargo install cargo-watch`
+``
+then run
+
+`cargo watch -x run`
 
 # Design Decisions
 

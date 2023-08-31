@@ -1,0 +1,4 @@
+[watch]
+src="**/*"
+watch = ["cargo run"]
+clear = false
