@@ -16,10 +16,12 @@ After completing the Rust book, it seems a logical step to create a real-world e
 6. Server should be started at `http://127.0.0.1:8000`
    
 
-   
+
 # Design Decisions
 
 
 # Important Nodes
 
 # Todos
+- [] Read about the Async Programming in Rust
+- 
